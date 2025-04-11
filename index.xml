@@ -432,16 +432,12 @@ $$</description>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://yangwangxingyun.github.io/about/</guid>
-        <description>&lt;h1 id=&#34;修改后的aboutmd&#34;&gt;修改后的about.md
-&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;title: &amp;ldquo;关于&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;我也不知道些什么&#34;&gt;我也不知道些什么
-&lt;/h2&gt;&lt;h2 id=&#34;comment-false&#34;&gt;date: 2020-02-02T16:23:32+08:00
+        <description>&lt;p&gt;title: &amp;ldquo;关于&amp;rdquo;
+date: 2020-02-02T16:23:32+08:00
 menu: &amp;ldquo;main&amp;rdquo;
 weight: 60
-comment: false
-&lt;/h2&gt;&lt;p&gt;这是一个测试&lt;/p&gt;
-&lt;h1 id=&#34;menu让它出现在菜单栏weight控制它在菜单栏的前后位置comment控制此页面能否评论&#34;&gt;menu让它出现在菜单栏，weight控制它在菜单栏的前后位置，comment控制此页面能否评论
+comment: false&lt;/p&gt;
+&lt;h1 id=&#34;本人喜欢的东西有很多&#34;&gt;本人喜欢的东西有很多
 &lt;/h1&gt;</description>
         </item>
         <item>
@@ -450,9 +446,8 @@ comment: false
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://yangwangxingyun.github.io/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;h2 id=&#34;大家好&#34;&gt;大家好
-&lt;/h2&gt;&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.
+This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -494,7 +489,17 @@ comment: false
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://yangwangxingyun.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;p&gt;本人目前是西安建筑科技大学的一名学生，房屋建筑学方向。
+本人喜欢的东西有很多，比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;音乐&lt;/li&gt;
+&lt;li&gt;跑步&lt;/li&gt;
+&lt;li&gt;阅读&lt;/li&gt;
+&lt;li&gt;编程
+本科的绩点还可以，对钢结构比较感兴趣，希望之后从事钢结构方面的学习。
+本人会一点python,matlab,html,java等语言。
+本人没有什么不良嗜好，生活作息规律。&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         
